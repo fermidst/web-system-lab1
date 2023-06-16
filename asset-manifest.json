@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-system-lab1/static/css/main.d20202a4.css",
+    "main.js": "/web-system-lab1/static/js/main.91e8d588.js",
+    "index.html": "/web-system-lab1/index.html",
+    "main.d20202a4.css.map": "/web-system-lab1/static/css/main.d20202a4.css.map",
+    "main.91e8d588.js.map": "/web-system-lab1/static/js/main.91e8d588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.91e8d588.js"
+  ]
+}
